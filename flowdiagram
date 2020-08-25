@@ -1,0 +1,8 @@
+#notes 
+#FLOW DIAGRAM 
+
+# 1)Load the dataset 
+# 2)Read the dataset 
+# 3)Normalize dataset using torchvision 
+# 4)Loss function
+# 5)Train the network 
